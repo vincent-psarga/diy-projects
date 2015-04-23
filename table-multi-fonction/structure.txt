@@ -1,0 +1,7 @@
+			Cotes finies			Cotes brutes
+Ind	Nom	Nbre	Long	Larg	Ep.	Long	Larg	Ep.	
+Pin
+1	Traverses	2	910,0	90,0	20,0	960,0	93,0	23,0	
+2	Exterieur	2	535,0	90,0	20,0	585,0	93,0	23,0	
+3	Face treteau	2	535,0	65,0	25,0	585,0	68,0	28,0	
+4	Milieu	2	495,0	90,0	20,0	545,0	93,0	23,0	
