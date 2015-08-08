@@ -1,0 +1,8 @@
+			Cotes finies			Cotes brutes
+Ind	Nom	Nbre	Long	Larg	Ep.	Long	Larg	Ep.	
+Pin
+1	Poteaux	4	280,0	20,0	20,0	330,0	23,0	23,0	
+Autres pieces
+2	Haut boite	1	520,0	520,0	15,0	
+3	Bas boite	1	520,0	520,0	30,0	
+4	Coté - vitre	4	470,0	280,0	10,0	
