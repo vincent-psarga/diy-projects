@@ -1,0 +1,7 @@
+			Cotes finies			Cotes brutes
+Ind	Nom	Nbre	Long	Larg	Ep.	Long	Larg	Ep.	
+Pin
+1	Planches	25	1550,0	120,0	20,0	1600,0	123,0	23,0	
+2	Poteau - fin	5	1300,0	50,0	50,0	1350,0	53,0	53,0	
+3	Poteau - coin	5	1300,0	50,0	50,0	1350,0	53,0	53,0	
+4	Poteau	7	1300,0	50,0	50,0	1350,0	53,0	53,0	
